@@ -1,7 +1,7 @@
 import './globals.css'
 
 export const metadata = {
-  title: 'Google',
+  title: 'WebQuest',
   description: 'Designed by Pradeep Joon',
 }
 
